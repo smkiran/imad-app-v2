@@ -15,6 +15,6 @@ button.onclick = function(){
         }
        }
    };
-   request.open('GET','http://http://smkiran.imad.hasura-app.io/counter',true);
+   request.open('GET','http://smkiran.imad.hasura-app.io/counter',true);
    request.send(null);
 };
